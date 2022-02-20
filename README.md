@@ -11,8 +11,6 @@ This repository aims to create `.html` and `.css` files so that Mariana can appl
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
 - [HTML](https://www.w3schools.com/html/html_basic.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
-- [Google Chrome](https://g.co/kgs/xStthu)
-- [Safari](https://g.co/kgs/Qg5s21)
 
 # Setup
 
