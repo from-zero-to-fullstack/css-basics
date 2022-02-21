@@ -2,3 +2,12 @@
     font-size: 30px;
 }
 .intro{background-color: bisque;}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contactinfo{
+    font-weight: bold; color:black; background-color: tomato;
+}
+.subheading{
+    border-style: dotted; font-weight: bold; background-color: slateblue;
+}
