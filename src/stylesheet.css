@@ -1,13 +1,16 @@
 .heading{
-    font-size: 30px;
+    font-size: 30px; text-transform: uppercase;
 }
 .intro{background-color: bisque;}
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .contactinfo{
-    font-weight: bold; color:black; background-color: tomato;
+    font-weight: bold; color:black; background-color: tomato; margin-top: 30px; margin-bottom: 30px;
 }
 .subheading{
-    border-style: dotted; font-weight: bold; background-color: slateblue;
+    text-transform: uppercase; border-style: dotted; font-weight: bold; background-color: slateblue; margin: 30px;
+}
+.icon{
+    margin-left: 30px;
 }
